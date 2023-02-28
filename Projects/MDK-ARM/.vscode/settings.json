@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stm32f4xx_hal.h": "c",
+        "os.h": "c",
+        "led.h": "c",
+        "malloc.h": "c",
+        "key.h": "c",
+        "usart.h": "c",
+        "lcd.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "os_cfg_app.h": "c",
+        "uc-os3_demo.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
